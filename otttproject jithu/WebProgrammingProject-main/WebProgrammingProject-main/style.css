@@ -1,0 +1,121 @@
+
+
+li a {
+    display: block;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+.banner {
+    margin-top: -190px;
+    margin-left: 300px
+}
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: red;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+   
+}
+
+
+/* foot-left btn-hover buttons btn-hover:hover btn-hover:focus */
+
+.btn-hover:focus {
+ outline: auto;
+}
+.red:hover{
+
+color: red;
+}
+.sbutton{
+
+    color: white;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+
+.nmtitle-section {
+    background: #00000000;
+    margin: 0 auto;
+    max-width: 1600px;
+    padding: 25px 5vw;
+    position: relative;
+}
+
+body,
+html {
+    background-color: #181818;
+    box-sizing: border-box;
+    color: #ffffff00;
+}
+
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #f3f3f300;
+    color: #333;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 16px;
+}
+
+.images-container{
+
+display: flex;
+justify-content: center;
+margin-left:
+margin-right
+}
+.image-container2{
+display: flex;
+    justify-content: center;
+    margin-left:
+        margin-right
+}
+.image-container3{
+display: flex;
+    justify-content: center;
+    margin-left:
+        margin-right
+}
